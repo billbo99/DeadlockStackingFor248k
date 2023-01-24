@@ -1,0 +1,16 @@
+{
+    "name": "DeadlockStackingFor248k",
+    "version": "1.1.6",
+    "factorio_version": "1.1",
+    "title": "Deadlock Stacking For 248k (alpha)",
+    "author": "billbo99",
+    "homepage": "",
+    "dependencies": [
+        "base",
+        "deadlock-beltboxes-loaders",
+        "rusty-locale",
+        "? PressurizedFluids248k",
+        "? 248k"
+    ],
+    "description": "Stacked items for 248k (alpha)"
+}
