@@ -42,6 +42,13 @@ Items.items = {
     ["fi_energy_crystal_item"] = {},
     ["fi_energy_crystal_charged_item"] = {},
 
+    ["used-up-uranium-fuel-cell"] = {},
+    ["fi_used_basic_fuel_item"] = {},
+    ["fi_used_basic_thorium_fuel_item"] = {},
+    ["fi_used_advanced_fuel_item"] = {tech="fi_solid_reactor_tech"},
+    ["fi_used_advanced_thorium_fuel_item"] = {tech="fi_solid_reactor_tech"},
+    ["fi_used_pure_fuel_item"] = {tech="fi_solid_reactor_tech"},
+
     ["fu_materials_energy_crystal"] = {},
     ["fu_materials_refined_crystal"] = {},
     ["fu_materials_pure_lead"] = {},
